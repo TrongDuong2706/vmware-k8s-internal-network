@@ -7,5 +7,7 @@ Các công cụ:
  - Private registry: harbor
  - Cụm k8s với 3 server vừa là master vừa là worker
  - Đóng gói dự án bằng helm chart
+
 Sơ đồ:
+
 ![Diagram](images/LAN-private.png)
