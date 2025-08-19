@@ -10,4 +10,4 @@ Các công cụ:
 
 Sơ đồ:
 
-![Diagram](images/LAN-private.png)
+![Diagram](images/Diagram.png)
